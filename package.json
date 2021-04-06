@@ -1,0 +1,22 @@
+{
+  "name": "bomb-evader",
+  "version": "1.0.0",
+  "description": "This is a simple RPG platform game built using the Phaser 3 library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "RPG",
+    "Game",
+    "Platform",
+    "game",
+    "Video",
+    "Game"
+  ],
+  "author": "Kelyn Paul Njeri <kelyn.njeri@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
