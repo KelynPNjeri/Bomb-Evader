@@ -8,3 +8,8 @@ All notable changes to this project will be documented in this file.
 - Create .editorconfig to allow for consistent code formatting.
 - Added changelog to actively check changes to codebase.
 - Create config file for the game.
+- Add webpack config files.
+- Create the scenes for the game. 
+- Add Leaderboard access.
+- Create the player object.
+- Style the game
