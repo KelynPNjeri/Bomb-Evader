@@ -1,5 +1,5 @@
 import { Scene } from 'phaser';
-import Api from '../utils/Api';
+import Api from '../utils/api';
 
 export default class LeaderBoard extends Scene {
   constructor() {

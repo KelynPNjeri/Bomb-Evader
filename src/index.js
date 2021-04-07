@@ -1,8 +1,8 @@
 import './style.css';
 import Phaser from 'phaser';
-import config from './config';
+import config from './config/config';
 import Main from './scenes/main';
-import LeaderBoard from './scenes/leaderBoard';
+import LeaderBoard from './scenes/leaderboard';
 
 class Game extends Phaser.Game {
   constructor(config) {

@@ -1,5 +1,5 @@
 import { Scene, Math } from 'phaser';
-import Player from '../objects/Player';
+import Player from '../objects/player';
 
 export default class Main extends Scene {
   constructor() {
